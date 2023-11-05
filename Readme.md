@@ -17,9 +17,11 @@ In a long run such large dataset can be trained to automate the treatment proces
 
 ## Relevant Links
 
-[Presentation Link](./STATCare.pdf)
+[Presentation Link](https://1drv.ms/f/s!AsqgnMh-6j2cgkd0pkiMbbA-T8Zj?e=myXPJC)
 
-[RFID Mimic App Link](./app-debug.apk)
+[RFID Mimic App apk Link](https://1drv.ms/f/s!AsqgnMh-6j2cgkd0pkiMbbA-T8Zj?e=myXPJC)
+
+Both of these files are also available in the root directory of this repository.
 
 ## Team Details
 

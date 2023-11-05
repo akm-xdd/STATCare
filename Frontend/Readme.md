@@ -12,3 +12,5 @@
 4. Run `npm run dev`
 5. Open a browser and go to `localhost:5173`
 6. Enjoy!
+
+##### The backend server needs to be running at the same time for the frontend server to send data properly.

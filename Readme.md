@@ -19,6 +19,8 @@ In a long run such large dataset can be trained to automate the treatment proces
 
 [Presentation Link](./STATCare.pdf)
 
+[RFID Mimic App Link](./app-debug.apk)
+
 ## Team Details
 
 Team Name: Ciphermen

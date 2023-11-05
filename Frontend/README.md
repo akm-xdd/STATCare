@@ -2,9 +2,9 @@
 
 ## This is the frontend repository for the STATCare project
 
-### This is a Vite.js + Tailwind CSS project
+### This has been made using Vite.js + Tailwind CSS
 
-#### To run the frontend, follow these steps:
+#### To run the frontend, follow these steps :
 
 1. Clone the repository
 2. Change directory to the Frontend folder
